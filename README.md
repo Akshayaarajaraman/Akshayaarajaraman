@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Akshayaarajaraman
-- 👀 I’m interested in Web Development and PCB Designing using kicad
+- 👀 I’m interested in PCB Designing and Web Development
 - 🌱 I’m currently learning Electronics and Communication Engineering
 
 
